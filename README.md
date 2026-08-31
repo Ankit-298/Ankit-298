@@ -326,13 +326,9 @@ A console-based management system built around **OOP, STL and file handling**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-298&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=8957E5&icon_color=1F6FEB&bg_color=0D1117" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Ankit-298&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=8957E5&icon_color=1F6FEB&bg_color=0D1117" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=dracula&hide_border=true&title_color=8957E5&bg_color=0D1117" height="175"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ankit-298&theme=dracula&hide_border=true&ring=1F6FEB&fire=8957E5&background=0D1117" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=dracula&hide_border=true&title_color=8957E5&bg_color=0D1117" height="175"/>
 
 </div>
 
@@ -342,11 +338,11 @@ A console-based management system built around **OOP, STL and file handling**.
 
 <br>
 
-# 📈 Contribution Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-298&bg_color=0d1117&color=8957E5&line=1F6FEB&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Ankit-298&theme=dracula&hide_border=true&ring=1F6FEB&fire=8957E5&background=0D1117" height="200"/>
 
 </div>
 
@@ -391,11 +387,11 @@ A console-based management system built around **OOP, STL and file handling**.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=8957E5&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Build+things+that+matter.;Keep+learning.;Keep+shipping."/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Ankit-298&label=THANKS+FOR+VISITING&color=1F6FEB&style=flat-square"/>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,40:1F6FEB,70:0D1117,100:05070D&height=140&section=footer" width="100%"/>
 
