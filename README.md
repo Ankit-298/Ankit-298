@@ -220,8 +220,8 @@ A console-based management system built to practice **object-oriented design and
 
  
 
-<a href="https://www.codechef.com/users/happy_dear_97">
-<img src="https://img.shields.io/badge/CodeChef-happy__dear__97-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+<a href="https://www.codechef.com/users/ankit0x29">
+<img src="https://img.shields.io/badge/CodeChef-ankit0x29-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 
  
