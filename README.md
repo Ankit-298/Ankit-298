@@ -1,254 +1,289 @@
-<h1 align="center">
-  Hey, I'm Ankit 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer • DSA Enthusiast • Builder
-</h3>
+# 👋 Hey, I'm Ankit
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Conquer.+🚀;Building+Real-World+Web+Applications;Solving+DSA+%26+Competitive+Programming;Learning+Something+New+Every+Day" alt="Typing SVG" />
-</p>
+### `Code. Build. Conquer.`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit-298&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
+**Full-Stack Developer · DSA Enthusiast · Problem Solver**
+
+<br>
+
+<a href="https://github.com/Ankit-298">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ankit-kumar-925421z/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Solving+DSA+%26+competitive+programming;Exploring+AI-powered+applications;Always+learning.+Always+building." />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Who Am I?
+
+I'm a developer who enjoys turning ideas into **functional, real-world applications**.
+
+I work across the stack, experiment with **AI-powered features**, and spend time sharpening my **DSA & problem-solving skills**.
 
 ```text
-💻 Full-Stack Developer
-🧠 DSA & Competitive Programming Enthusiast
-🤖 Interested in AI-powered applications
-⚡ Building real-world web applications
-🚀 Turning ideas into practical products
-📚 Continuously improving my problem-solving skills
+┌──────────────────────────────────────────────────────────────┐
+│  💻 Full-Stack Development                                   │
+│  🧠 Data Structures & Algorithms                            │
+│  🤖 AI-powered Applications                                 │
+│  ⚡ Real-Time Systems                                       │
+│  🚀 Hackathon & Personal Projects                           │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> **I don't just learn technologies — I build with them.**
+---
+
+# ⚒️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+# 🚀 Things I've Built
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🛠️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Nexus
+## 🤖 Nexus
 
-**AI-Powered Real-Time Collaborative Chat**
+### AI-Powered Collaborative Chat
 
-* 💬 Real-time messaging
-* 🤖 AI chatbot integration
-* 👥 Group creation & joining
-* 🔐 Secure authentication
-* 🟢 Online / Offline status
-* ✏️ Edit & Delete messages
+A real-time communication platform combining **group collaboration with AI**.
 
-</td>
+**Highlights**
 
-<td width="50%">
-
-### 📊 TransferIQ Pro
-
-**Intelligent Data & Transfer Platform**
-
-* ⚡ Modern web application
-* 🧠 AI-focused functionality
-* 📊 Data-driven workflows
-* 🌐 Full-stack development
-* 🚀 Practical real-world use case
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎵 SyncPlay Music
-
-**Real-Time Collaborative Music Platform**
-
-* 🎧 Synchronized music playback
-* 👥 Listen together with others
-* ⚡ Real-time synchronization
-* 🌐 Interactive web experience
-* 🎶 Collaborative music sessions
+💬 Real-time messaging
+🤖 AI chatbot
+👥 Group creation & joining
+🔐 Secure authentication
+🟢 Online / Offline status
+✏️ Message editing & deletion
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ RAPIDX
+## ⚡ RAPIDX
 
-**AI-Powered Service Marketplace**
+### AI-Powered Service Marketplace
 
-* 👤 Client & Worker platform
-* 🤖 AI-powered service assistance
-* 🔍 Service discovery & matching
-* 📋 Worker & client workflows
-* 🌐 Full-stack web application
-* 🚀 Real-world marketplace concept
+A platform connecting **clients and workers** through an AI-powered service workflow.
+
+**Highlights**
+
+👤 Client & Worker ecosystem
+🤖 AI-powered assistance
+🔍 Service discovery & matching
+📋 Worker & client workflows
+🌐 Full-stack architecture
+🚀 Real-world marketplace concept
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ FocusGuard Pro
+## 🎵 SyncPlay
 
-**Productivity Browser Extension**
+### Real-Time Music Collaboration
 
-* 🎯 Focus & productivity tools
-* 🌐 Browser extension architecture
-* ⚡ Helps reduce distractions
-* 🧩 Practical everyday use case
+A collaborative music platform designed to let users **listen together in sync**.
+
+**Highlights**
+
+🎧 Synchronized playback
+👥 Listen together
+⚡ Real-time synchronization
+🎶 Collaborative sessions
+🌐 Interactive web experience
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Library Management System
+## 📊 TransferIQ Pro
 
-**C++17 • OOP • STL • File Handling**
+### Intelligent Data Platform
 
-* 📖 Book management
-* 👤 Member management
-* 🔄 Issue / Return system
-* 💰 Fine calculation
-* 📁 Persistent file handling
+A modern web application focused on **AI-powered functionality and data-driven workflows**.
+
+**Highlights**
+
+🧠 AI-focused functionality
+📊 Data-driven workflows
+⚡ Modern web architecture
+🌐 Full-stack development
+🚀 Practical real-world use case
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🛡️ FocusGuard Pro
+
+### Productivity Browser Extension
+
+A browser extension built around **focus and digital productivity**.
+
+**Highlights**
+
+🎯 Focus tools
+🌐 Browser extension architecture
+⚡ Distraction reduction
+🧩 Practical productivity use case
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management
+
+### C++17 • OOP • STL
+
+A console-based management system built to practice **object-oriented design and file handling**.
+
+**Highlights**
+
+📖 Book management
+👤 Member management
+🔄 Issue / Return
+💰 Fine calculation
+📁 Persistent file handling
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-# 🏆 Achievements & Hackathons
+# 🏆 Hackathons & Achievements
 
-### 🚀 Hackathons & Innovation
+<div align="center">
 
-| Project                    | Description                                                                      |
-| :------------------------- | :------------------------------------------------------------------------------- |
-| ⚡ **QuickAssist / RAPIDX** | Developed a practical service-oriented application with AI-powered functionality |
-| 🤖 **AI Projects**         | Built AI-focused applications including **Nexus** and **TransferIQ Pro**         |
-| 🧩 **Browser Extension**   | Developed **FocusGuard Pro**, a productivity-focused browser extension           |
+| 🚀 Project / Activity       | 💡 Focus                                    |
+| :-------------------------- | :------------------------------------------ |
+| **RAPIDX / QuickAssist**    | AI-powered client & worker service platform |
+| **Nexus**                   | Real-time collaboration + AI                |
+| **SyncPlay**                | Real-time synchronized music                |
+| **Competitive Programming** | DSA • Algorithms • Problem Solving          |
 
-### 🧠 Competitive Programming
+</div>
 
-<p align="center">
+<br>
+
+> **Building projects is how I turn concepts into experience.**
+
+---
+
+# 🧠 Competitive Programming
+
+<div align="center">
 
 <a href="https://leetcode.com/u/algoAnkit54/">
-  <img src="https://img.shields.io/badge/LeetCode-algoAnkit54-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-algoAnkit54-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
+
+ 
 
 <a href="https://www.codechef.com/users/happy_dear_97">
-  <img src="https://img.shields.io/badge/CodeChef-happy__dear__97-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-happy__dear__97-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
+
+ 
 
 <a href="https://codeforces.com/profile/Ankit4095">
-  <img src="https://img.shields.io/badge/Codeforces-Ankit4095-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-Ankit4095-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
-  <b>DSA • Problem Solving • Competitive Programming</b>
-</p>
+`DSA` · `Algorithms` · `Problem Solving` · `Competitive Programming`
 
----
-
-# 💡 What I Like Building
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Applications-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack%20Web%20Apps-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Real--Time%20Systems-000000?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Browser%20Extensions-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA%20%26%20CP-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-298&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-298&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175">
 
-# 🔥 GitHub Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=tokyonight&hide_border=true" height="175">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit-298&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ankit-298&theme=tokyonight&hide_border=true" height="175">
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-298&theme=tokyo-night&hide_border=true&area=true&custom_title=Ankit's%20Contribution%20Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-298&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity">
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Ankit-298">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Ankit--298-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/ankit-kumar-925421z/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+<br><br>
 
----
+### ⭐ If you find something interesting, feel free to explore my repositories.
 
-<p align="center">
-  <i>"First make it work. Then make it better."</i>
-</p>
+<br>
 
-<p align="center">
-  <b>⚡ Code • Build • Conquer ⚡</b>
-</p>
+`⚡ Code`   `🚀 Build`   `🧠 Learn`   `🔥 Repeat`
+
+</div>
