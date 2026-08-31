@@ -1,321 +1,402 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Ankit&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Conquer.&descAlignY=55&descSize=18" width="100%"/>
+<!-- ============================= -->
+<!--            HEADER             -->
+<!-- ============================= -->
 
-**Full-Stack Developer · DSA Enthusiast · Problem Solver**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,40:0D1117,70:1F6FEB,100:8957E5&height=230&section=header&text=ANKIT%20KUMAR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20·%20DSA%20·%20AI%20SYSTEMS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120"/>
+
+<h3><i>Building. Solving. Shipping.</i></h3>
+
+<p width="80%">
+Full-Stack Developer crafting real-world applications, AI-powered systems<br/>
+and real-time experiences — with a problem-solver's mindset.
+</p>
 
 <br>
 
-<a href="https://github.com/Ankit-298">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ankit-kumar-925421z/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/algoAnkit54/">
-  <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
+<a href="https://github.com/Ankit-298"><img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=8957E5&labelColor=161B22"/></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-925421z/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=1F6FEB&labelColor=161B22"/></a>
+<a href="https://leetcode.com/u/algoAnkit54/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161B22"/></a>
+<a href="https://www.codechef.com/users/happy_dear_97"><img src="https://img.shields.io/badge/CODECHEF-161B22?style=flat-square&logo=codechef&logoColor=8957E5&labelColor=161B22"/></a>
+<a href="https://codeforces.com/profile/Ankit4095"><img src="https://img.shields.io/badge/CODEFORCES-161B22?style=flat-square&logo=codeforces&logoColor=1F6FEB&labelColor=161B22"/></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Solving+DSA+%26+competitive+programming;Exploring+AI-powered+applications;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=8957E5&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Development;AI-Powered+Applications;Real-Time+Systems;Data+Structures+%26+Algorithms;Competitive+Programming"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ankit-298&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Ankit-298&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square"/>
 
-<br>
+<br><br>
 
-<a href="#-who-am-i">About</a> •
-<a href="#️-tech-arsenal">Tech Stack</a> •
-<a href="#-things-ive-built">Projects</a> •
-<a href="#-github-trophies">Trophies</a> •
-<a href="#-github-activity">Stats</a> •
+<a href="#-about-me">About</a> &nbsp;│&nbsp;
+<a href="#️-tech-stack">Stack</a> &nbsp;│&nbsp;
+<a href="#-featured-projects">Projects</a> &nbsp;│&nbsp;
+<a href="#-competitive-programming">CP</a> &nbsp;│&nbsp;
+<a href="#-github-analytics">Analytics</a> &nbsp;│&nbsp;
 <a href="#-lets-connect">Connect</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
 
-# 🧑‍💻 Who Am I?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
+
+# 👋 About Me
 
 <table>
 <tr>
-<td width="60%" valign="middle">
 
-I'm a developer who enjoys turning ideas into **functional, real-world applications**.
+<td width="65%" valign="top">
 
-I work across the stack, experiment with **AI-powered features**, and spend time sharpening my **DSA & problem-solving skills**.
+### Who am I?
 
-```text
-┌──────────────────────────────────────────────────┐
-│  💻 Full-Stack Development                        │
-│  🧠 Data Structures & Algorithms                   │
-│  🤖 AI-powered Applications                        │
-│  ⚡ Real-Time Systems                               │
-│  🚀 Hackathon & Personal Projects                   │
-└──────────────────────────────────────────────────┘
-```
+I'm a developer who likes turning ideas into **working products**.
 
-💡 **Currently exploring:** Advanced DSA patterns & scalable AI-integrated architectures
+I enjoy working across the stack — from designing interfaces and building APIs to implementing real-time communication and integrating AI-powered functionality.
 
-</td>
-<td width="40%" align="center">
+### Currently focused on
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="100%">
+&nbsp;&nbsp;🧠&nbsp; Data Structures & Algorithms
+&nbsp;&nbsp;🌐&nbsp; Full-Stack Web Development
+&nbsp;&nbsp;🤖&nbsp; AI-integrated applications
+&nbsp;&nbsp;⚡&nbsp; Real-time systems
+&nbsp;&nbsp;🚀&nbsp; Hackathons & product-oriented projects
 
-<sub>💻 Always building something new</sub>
+<br>
+
+> **Learn → Build → Break → Debug → Improve**
 
 </td>
+
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+
+<br><br>
+
+<sub><i>Always building.</i></sub>
+
+</td>
+
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
 
-# ⚒️ Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
+
+# ⚒️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,js" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="380"/>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<br><br>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+<sub><b>LANGUAGES</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,java,js"/>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<br><br>
+
+<sub><b>FRONTEND</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+<br><br>
+
+<sub><b>BACKEND & DATABASE</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql"/>
+
+<br><br>
+
+<sub><b>TOOLS & DEVELOPMENT</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
 
-# 🚀 Things I've Built
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
 
-<div align="center">
+<br>
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 Nexus
-**AI-Powered Collaborative Chat**
+<h3>🤖 Nexus</h3>
+<sub><b>AI-POWERED COLLABORATIVE CHAT</b></sub>
 
-A real-time communication platform combining **group collaboration with AI**.
+A real-time communication platform combining **group collaboration and AI**.
 
-💬 Real-time messaging &nbsp;·&nbsp; 🤖 AI chatbot
-👥 Group creation & joining
-🔐 Secure authentication
-🟢 Online / Offline status
-✏️ Message editing & deletion
+- Real-time messaging
+- AI chatbot integration
+- Group creation & joining
+- Secure authentication
+- Online / Offline status
+- Message editing & deletion
 
-`React` `Node.js` `MongoDB` `Socket.io`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.io-161B22?style=flat-square&logo=socket.io&logoColor=white"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⚡ RAPIDX
-**AI-Powered Service Marketplace**
+<h3>⚡ RAPIDX</h3>
+<sub><b>AI-POWERED SERVICE MARKETPLACE</b></sub>
 
 A platform connecting **clients and workers** through an AI-powered service workflow.
 
-👤 Client & Worker ecosystem
-🤖 AI-powered assistance
-🔍 Service discovery & matching
-📋 Worker & client workflows
-🌐 Full-stack architecture
+- Client & Worker ecosystem
+- AI-powered assistance
+- Service discovery
+- Worker-client workflows
+- Full-stack architecture
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248"/>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎵 SyncPlay
-**Real-Time Music Collaboration**
+<h3>🎵 SyncPlay</h3>
+<sub><b>REAL-TIME MUSIC COLLABORATION</b></sub>
 
-A collaborative music platform designed to let users **listen together in sync**.
+A collaborative music platform designed for users to **listen together in sync**.
 
-🎧 Synchronized playback
-👥 Listen together
-⚡ Real-time synchronization
-🎶 Collaborative sessions
+- Synchronized playback
+- Collaborative listening
+- Real-time synchronization
+- Shared music sessions
 
-`React` `Node.js` `WebSocket`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/WebSocket-161B22?style=flat-square&logo=socket.io&logoColor=white"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📊 TransferIQ Pro
-**Intelligent Data Platform**
+<h3>📊 TransferIQ Pro</h3>
+<sub><b>AI-POWERED DATA PLATFORM</b></sub>
 
-A modern web application focused on **AI-powered functionality and data-driven workflows**.
+A modern application focused on **AI functionality and data-driven workflows**.
 
-🧠 AI-focused functionality
-📊 Data-driven workflows
-⚡ Modern web architecture
-🌐 Full-stack development
+- AI-powered functionality
+- Data-driven workflows
+- Modern web architecture
+- Full-stack implementation
 
-`React` `Node.js` `MongoDB`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248"/>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛡️ FocusGuard Pro
-**Productivity Browser Extension**
+<h3>🛡️ FocusGuard Pro</h3>
+<sub><b>PRODUCTIVITY BROWSER EXTENSION</b></sub>
 
-A browser extension built around **focus and digital productivity**.
+A browser extension focused on **digital productivity and distraction reduction**.
 
-🎯 Focus tools
-🌐 Browser extension architecture
-⚡ Distraction reduction
+- Focus tools
+- Productivity features
+- Browser extension architecture
+- Distraction reduction
 
-`JavaScript` `Chrome Extension API`
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Chrome_Extension_API-161B22?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📚 Library Management
-**C++17 · OOP · STL**
+<h3>📚 Library Management</h3>
+<sub><b>C++17 · OOP · STL</b></sub>
 
-A console-based management system built to practice **object-oriented design and file handling**.
+A console-based management system built around **OOP, STL and file handling**.
 
-📖 Book management &nbsp;·&nbsp; 👤 Member management
-🔄 Issue / Return &nbsp;·&nbsp; 💰 Fine calculation
-📁 Persistent file handling
+- Book management
+- Member management
+- Issue / Return system
+- Fine calculation
+- Persistent file handling
 
-`C++17` `OOP` `STL`
+<img src="https://img.shields.io/badge/C%2B%2B17-161B22?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/OOP-161B22?style=flat-square"/> <img src="https://img.shields.io/badge/STL-161B22?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
-</div>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
 
-# 🏆 Hackathons & Achievements
+<br>
+
+# 🏆 Hackathons & Building
 
 <div align="center">
 
-| 🚀 Project / Activity       | 💡 Focus                                    |
-| :-------------------------- | :------------------------------------------ |
-| **RAPIDX / QuickAssist**    | AI-powered client & worker service platform |
-| **Nexus**                   | Real-time collaboration + AI                |
-| **SyncPlay**                | Real-time synchronized music                |
-| **Competitive Programming** | DSA · Algorithms · Problem Solving          |
+<table>
 
-> **Building projects is how I turn concepts into experience.**
+<tr>
+<td align="center"><b>RAPIDX / QuickAssist</b></td>
+<td>AI-powered client & worker platform</td>
+</tr>
+
+<tr>
+<td align="center"><b>Nexus</b></td>
+<td>Real-time collaboration + AI</td>
+</tr>
+
+<tr>
+<td align="center"><b>SyncPlay</b></td>
+<td>Real-time synchronized music</td>
+</tr>
+
+<tr>
+<td align="center"><b>Competitive Programming</b></td>
+<td>DSA · Algorithms · Problem Solving</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="260"/>
+
+<br>
+
+<sub><i>Turning ideas into working systems.</i></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
 
 # 🧠 Competitive Programming
 
 <div align="center">
 
-<a href="https://leetcode.com/u/algoAnkit54/">
-<img src="https://img.shields.io/badge/LeetCode-algoAnkit54-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/ankit0x29">
-<img src="https://img.shields.io/badge/CodeChef-ankit0x29-58A6FF?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/Ankit4095">
-<img src="https://img.shields.io/badge/Codeforces-Ankit4095-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
+<a href="https://leetcode.com/u/algoAnkit54/"><img src="https://img.shields.io/badge/LeetCode-algoAnkit54-161B22?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161B22"/></a>
+<a href="https://www.codechef.com/users/happy_dear_97"><img src="https://img.shields.io/badge/CodeChef-happy__dear__97-161B22?style=flat-square&logo=codechef&logoColor=8957E5&labelColor=161B22"/></a>
+<a href="https://codeforces.com/profile/Ankit4095"><img src="https://img.shields.io/badge/Codeforces-Ankit4095-161B22?style=flat-square&logo=codeforces&logoColor=1F8ACB&labelColor=161B22"/></a>
 
 <br><br>
 
-`DSA` · `Algorithms` · `Problem Solving` · `Competitive Programming`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit-298&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-298&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=tokyonight&hide_border=true" height="175">
+<code>DSA</code> &nbsp;·&nbsp; <code>Algorithms</code> &nbsp;·&nbsp; <code>Problem Solving</code> &nbsp;·&nbsp; <code>Competitive Programming</code>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ankit-298&theme=tokyonight&hide_border=true" height="175">
+<img src="https://leetcard.jacoblin.cool/algoAnkit54?theme=dark&font=Baloo&ext=heatmap" width="500"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
 
-# 📈 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-298&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity">
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-298&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=8957E5&icon_color=1F6FEB&bg_color=0D1117" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-298&layout=compact&theme=dracula&hide_border=true&title_color=8957E5&bg_color=0D1117" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ankit-298&theme=dracula&hide_border=true&ring=1F6FEB&fire=8957E5&background=0D1117" height="175"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-298&bg_color=0d1117&color=8957E5&line=1F6FEB&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ankit-298/Ankit-298/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Ankit-298/Ankit-298/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
 
-<sub>⚙️ Set up via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to auto-generate this animation</sub>
+<br><br>
+
+<sub><i>Consistency compounds.</i></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&section=header" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:1F6FEB,100:8957E5&height=2&section=header" width="100%"/>
+
+<br>
 
 # 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Ankit-298">
-<img src="https://img.shields.io/badge/GitHub-Ankit--298-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ankit-kumar-925421z/">
-<img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="90"/>
+
+### Have an idea? Let's build it.
+
+<br>
+
+<a href="https://github.com/Ankit-298"><img src="https://img.shields.io/badge/GitHub-Ankit--298-161B22?style=flat-square&logo=github&logoColor=8957E5&labelColor=161B22"/></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-925421z/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-161B22?style=flat-square&logo=linkedin&logoColor=1F6FEB&labelColor=161B22"/></a>
 
 <br><br>
 
-### ⭐ If you find something interesting, feel free to explore my repositories.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=8957E5&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Build+things+that+matter.;Keep+learning.;Keep+shipping."/>
 
 <br>
 
-`⚡ Code`   `🚀 Build`   `🧠 Learn`   `🔥 Repeat`
+<img src="https://komarev.com/ghpvc/?username=Ankit-298&label=THANKS+FOR+VISITING&color=1F6FEB&style=flat-square"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/img/footer.gif" width="100%">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,40:1F6FEB,70:0D1117,100:05070D&height=140&section=footer" width="100%"/>
 
 </div>
