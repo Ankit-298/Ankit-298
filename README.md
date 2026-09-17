@@ -17,7 +17,7 @@ and real-time experiences — with a problem-solver's mindset.
 
 <br>
 
-<a href="https://github.com/Ankit-298"><img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=8957E5&labelColor=161B22"/></a>
+<a href="https://github.com/ankitkumar298"><img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=8957E5&labelColor=161B22"/></a>
 <a href="https://www.linkedin.com/in/ankit-kumar-925421z/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=1F6FEB&labelColor=161B22"/></a>
 <a href="https://leetcode.com/u/algoAnkit54/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161B22"/></a>
 <a href="https://www.codechef.com/users/happy_dear_97"><img src="https://img.shields.io/badge/CODECHEF-161B22?style=flat-square&logo=codechef&logoColor=8957E5&labelColor=161B22"/></a>
